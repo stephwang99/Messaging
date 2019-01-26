@@ -15,4 +15,5 @@ Launching and Operating Instructions:
    2. View output using the following command: (1) instance - ./main (2) instance - ./main 127.0.0.1	   
 	
 Note: If you rerun, you must wait a bit of time, if not you will get bind error.
+
 Issues: Sometimes the counter creates a value that terminates the rest of the String.
