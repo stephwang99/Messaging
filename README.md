@@ -10,6 +10,7 @@ Object Files: a4-util.o client.o
 Header Files: header.h
 
 Compilation Command: make
+
 Launching and Operating Instructions:
    1. Compile file using the command: make (Compiling was completed through the Makefile)
    2. View output using the following command: (1) instance - ./main (2) instance - ./main 127.0.0.1	   
